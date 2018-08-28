@@ -1,0 +1,10 @@
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\bin\Release\TaskbarHider.exe.config
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\bin\Release\TaskbarHider.exe
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\bin\Release\TaskbarHider.pdb
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\obj\Release\TaskbarHider.csprojResolveAssemblyReference.cache
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\obj\Release\TaskbarHider.Form1.resources
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\obj\Release\TaskbarHider.Properties.Resources.resources
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\obj\Release\TaskbarHider.csproj.GenerateResource.cache
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\obj\Release\TaskbarHider.csproj.CoreCompileInputs.cache
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\obj\Release\TaskbarHider.exe
+D:\Taskbar Hider\Taskbar_hider\TaskbarHider\obj\Release\TaskbarHider.pdb
